@@ -29,3 +29,4 @@ class HelloClass(Resource):
 if __name__ == '__main__':
 	application.debug = True # Enable debugging mode
 	application.run(host="127.0.0.1", port=5000) # Specify a host and port fot the app
+
