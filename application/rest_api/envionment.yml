@@ -1,0 +1,7 @@
+name: rest_api_environment
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python==3.11
+  - pip
