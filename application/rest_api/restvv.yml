@@ -1,0 +1,8 @@
+name: restvv
+channels:
+  -conda-forge
+  -bioconda
+  -flask_restX
+  -Flask
+dependencies:
+  -python = 3.9.6
